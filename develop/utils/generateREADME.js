@@ -1,2 +1,31 @@
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+module.exports = readMeData => {
+
+    return `
+    # <project title>
+
+    ## Description
+
+    <description>
+
+    ## Table of Contents
+
+    <li s>
+
+    ## Installation Instructions
+
+    <instructions>
+
+    ## Usage
+
+    ## License
+
+    ## Contributing
+
+    ## Tests
+
+    ## Questions
+
+
+    `
+}
