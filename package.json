@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "inquirer": "^8.2.0"
-  }
+  },
+  "name": "readme-generator",
+  "description": "Generates professional README files",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertRish/README-Generator.git"
+  },
+  "author": "Rob Rish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertRish/README-Generator/issues"
+  },
+  "homepage": "https://github.com/RobertRish/README-Generator#readme"
 }

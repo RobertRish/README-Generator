@@ -1,8 +1,8 @@
 // TODO: Include packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
-const generateREADME = require('./utils/generateREADME.js')
-const generateLicense = require('./utils/generateMarkdown.js');
+const generateREADME = require('./develop/utils/generateREADME.js')
+const generateMarkdown = require('./develop/utils/generateMarkdown.js');
 
 // TODO: Create an array of questions for user input
 const promptProject = portfolioData => {
