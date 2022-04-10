@@ -49,7 +49,7 @@ const promptProject = () => {
             message: "Test instructions:"
         },
         {
-            type: 'checkbox',
+            type: 'list',
             name: 'license',
             message: "Pick the type of license:",
             choices: ['MIT', 'Apache', 'BSD', 'None' ]
@@ -80,10 +80,11 @@ const promptProject = () => {
 // TODO: Create a function to initialize app
 async function init() {
   var results = await promptProject()
+  console.log(results);
   fs.writeFileSync(path.join(__dirname, '/dist/', 'README.md'), generateMarkdown(results))
 } 
 
 // Function call to initialize app
 init();
 
-// Licenses
+// Now the license badge isn't generating
