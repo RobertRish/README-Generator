@@ -1,11 +1,11 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
+console.log(data);
 function renderLicenseBadge(data) {
-  console.log(data);
-  if (data.license[0]) {
-    return `![License](https://img.shields.io/badge/License-${data.license}%20-yellow.svg)`;
-  } else {
-    return '';
-  }
+  // if (data.license[0]) {
+  //   return `![License](https://img.shields.io/badge/License-${data.license}%20-yellow.svg)`;
+  // } else {
+  //   return '';
+  // }
 }
 
 // TODO: Create a function that returns the license link
