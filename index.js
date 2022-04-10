@@ -1,7 +1,6 @@
 // TODO: Include packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
-const generateREADME = require('./develop/utils/generateREADME.js')
 const generateMarkdown = require('./develop/utils/generateMarkdown.js');
 const path = require('path');
 
@@ -53,7 +52,7 @@ const promptProject = () => {
             type: 'checkbox',
             name: 'license',
             message: "Pick the type of license:",
-            choices: ['MIT', 'Apache', 'GLP', 'BSD', 'None' ]
+            choices: ['MIT', 'Apache', 'BSD', 'None' ]
         },
         {
             type: 'input',
@@ -87,5 +86,4 @@ async function init() {
 // Function call to initialize app
 init();
 
-// 1. Check to make sure code matches starter code and isn't all just 
-// copy/pasted from lesson
+// Licenses
