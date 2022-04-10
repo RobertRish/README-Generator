@@ -1,5 +1,5 @@
 
-  # a;lf
+  # README Generator
   
 
   ## Table of contents
@@ -13,28 +13,28 @@
   8. [Questions](#questions)
 
   ## Title
-  a;lf
+  README Generator
 
   ## Description
-  ;lajsd
+  A CLI application that produces README.md files
 
   ## Installation
-  ajl;f
+  run "npm i"
 
   ## Usage
-  ;jaef
+  Once the repository is cloned, run "npm i" to install the necessary dependencies.  Then, open the terminal is the applications directory and run "node index.js".  Answer the prompts with the relevant information for your project and a README.md file will be generated with the information you provided!
 
   ## Contribution
-  l;e
+  No help needed here thanks :)
 
   ## Test
-  ;elijf
+  No tests currently
 
   ## License
   undefined
 
   ## Questions
   undefined<br />
-  Visit my GitHub page! [;aoiwef](https://github.com/;aoiwef)<br />
-  If you have questions feel free to reach out!: ;aie <br />
+  Visit my GitHub page! [RobertRish](https://github.com/RobertRish)<br />
+  If you have questions feel free to reach out!: robert.rish1225@gmail.com 
 
