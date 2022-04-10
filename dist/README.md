@@ -1,5 +1,5 @@
 
-  # README Generator
+  # title
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of contents
@@ -13,20 +13,19 @@
   8. [Questions](#questions)
 
   ## Description
-  An app that generates professional quality README.md files for their projects using user inputs in the command line
+  desc
 
   ## Installation
-  run "npm i" or "npm install"
+  install
 
   ## Usage
-  Once the repository is cloned and the dependencies are installed, run "node index.js" and fill in the prompts.  
-  Once the questions have been filled out your README will be in the dist/ directory.
+  usage
 
   ## Contribution
-  Rob Rish
+  cont
 
   ## Test
-  No tests at this time
+  test
 
   ## License
   
@@ -53,10 +52,9 @@
         SOFTWARE.
       
 
-## Questions
-Visit my GitHub page! [RobertRish](https://github.com/RobertRish)
-If you have questions feel free to reach out!: robert.rish1225@gmail.com
+  ## Questions
+  Visit my GitHub page! [github](https://github.com/github)
+  If you have questions feel free to reach out!: email 
 
-## Walkthrough Video
-https://youtu.be/brNjV9ilbuM
+  
 
