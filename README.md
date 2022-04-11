@@ -13,7 +13,7 @@
   8. [Questions](#questions)
 
   ## Description
-  An app that generates professional quality README.md files for their projects using user inputs in the command line
+  An app that generates professional quality README.md files for your GitHub projects using user inputs in the command line
 
   ## Installation
   Run "npm i" or "npm install"
