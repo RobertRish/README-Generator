@@ -16,7 +16,7 @@
   An app that generates professional quality README.md files for their projects using user inputs in the command line
 
   ## Installation
-  run "npm i" or "npm install"
+  Run "npm i" or "npm install"
 
   ## Usage
   Once the repository is cloned and the dependencies are installed, run "node index.js" and fill in the prompts.  
