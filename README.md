@@ -5,7 +5,7 @@
   ## Table of contents
   1. [Title](#title)
   2. [Description](#description)
-  3. [Technologies Used](#technologiesused)
+  3. [Technologies Used](#technologies-used)
   4. [Installation](#installation)
   5. [Usage](#usage)
   6. [Contributing](#contributing)
