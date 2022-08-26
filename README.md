@@ -5,15 +5,19 @@
   ## Table of contents
   1. [Title](#title)
   2. [Description](#description)
-  3. [Installation](#installation)
-  4. [Usage](#usage)
-  5. [Contributing](#contributing)
-  6. [Test](#test)
-  7. [License](#license)
-  8. [Questions](#questions)
+  3. [Technologies Used](#techonologiesused)
+  4. [Installation](#installation)
+  5. [Usage](#usage)
+  6. [Contributing](#contributing)
+  7. [Test](#test)
+  8. [License](#license)
+  9. [Questions](#questions)
 
   ## Description
   An app that generates professional quality README.md files for your GitHub projects using user inputs in the command line
+
+  ## Technologies Used
+  Node and the Inquirer npm package
 
   ## Installation
   Run "npm i" or "npm install"
